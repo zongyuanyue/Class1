@@ -1,3 +1,6 @@
+# check into [Assignment1's repo](https://github.com/ArtG2260SpringTuesday2016/Assignment1).
+
+
 - Homework Questions & comments
 If you haven't gotten a comment on your assigment0 work message Francisco on slack immediately. If you were not in the first class or did not bring a laptop go though https://github.com/ArtG2260SpringTuesday2016/Assignment0/. Your first assignement will be due with your second assignment on Sunday.
 
